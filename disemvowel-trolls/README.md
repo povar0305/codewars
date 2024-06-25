@@ -1,6 +1,5 @@
-# codewars
-
-[Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript) 25.06.2024
+# [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript)
+25.06.2024
 
 Trolls are attacking your comment section!
 
