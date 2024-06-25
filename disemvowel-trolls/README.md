@@ -25,3 +25,4 @@ function disemvowel(str='') {
   return result;
 }
 ```
+![img.png](img.png)
