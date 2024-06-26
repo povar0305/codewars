@@ -7,3 +7,6 @@
 * [Duplicate Encoder](duplicate-encoder)
 * [Isograms](isograms)
 * [Xo](xo)
+
+Работа с массивами
+* [Who likes this?](who-likes-this)
