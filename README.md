@@ -5,3 +5,4 @@
 Работа со строками:
 * [Disemvowel Trolls](disemvowel-trolls)
 * [Duplicate Encoder](duplicate-encoder)
+* [Isograms](isograms)
