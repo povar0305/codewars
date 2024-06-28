@@ -20,3 +20,5 @@ function domainName(url){
   return url.split('.')[0]
 }
 ```
+
+![img_1.png](img_1.png)
