@@ -7,6 +7,7 @@
 * [Duplicate Encoder](duplicate-encoder)
 * [Isograms](isograms)
 * [Xo](xo)
+* [Extract the domain name from a URL](domain-name)
 
 Работа с массивами
 * [Who likes this?](who-likes-this)
