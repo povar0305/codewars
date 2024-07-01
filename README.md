@@ -10,6 +10,7 @@
 * [Extract the domain name from a URL](domain-name)
 * [Break camelCase](break-camel-case)
 * [Unique In Order](enique-in-order)
+* [Your order, please](your-order-please)
 
 Работа с массивами
 * [Who likes this?](who-likes-this)
