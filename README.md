@@ -14,3 +14,6 @@
 
 Работа с массивами
 * [Who likes this?](who-likes-this)
+
+Работа с объектами
+* [Count characters in your string](count-characters-in-your-string)
